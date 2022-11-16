@@ -1,0 +1,36 @@
+.boxmodel{
+    border-top: 4px double cornflowerblue;
+    border-left: 4px solid coral;
+    border-right: 4px double crimson;
+    border-bottom: 4px dotted rebeccapurple;
+    padding: 20px              40px;
+    /*       topandbottm    leftandright */
+    outline: 3px solid gold;
+    outline-offset: 20px;
+    margin: 20px 20px;
+    
+}
+.boy{
+    border: 30px;
+    outline: 20px solid darkblue;
+
+}
+button{
+    color: rgb(22, 22, 21);
+    background-color: aqua;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px solid rgb(238, 211, 228);
+    border-radius: 10px;
+    padding: 10px;
+    outline: 3px dotted orange;
+    outline-offset: 10px;
+}
+.profile{
+    width: 100px;
+    clip-path: circle();
+    border: 20px chocolate;
+    
+    
+}
+

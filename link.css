@@ -1,0 +1,14 @@
+p{
+    color:orange;
+    }
+    h2,h1{
+        color:#151616;
+        background-color: rgb(28, 230, 119);
+    }
+    .box{
+        background-color: aqua;
+    }
+    .box h1{
+        color: azure;
+        background-color: blue;
+    }

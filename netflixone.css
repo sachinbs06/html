@@ -1,0 +1,36 @@
+body{
+    background-image: url('zgeTuV.jpg');
+    background-size: cover;
+}
+.logo img{
+    height: 100px;
+    width: 200px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.button{
+    color: transparent;
+    
+}
+.button{
+    color: red;
+}
+
+.content{
+    color: white;
+    text-align: center;
+    margin-top: 130px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.content h1{
+    font-size: 60px;
+    margin: 0;
+}
+.content p{
+    font-size: large;
+    margin: 0;
+}

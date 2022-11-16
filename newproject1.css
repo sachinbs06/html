@@ -1,0 +1,18 @@
+img{
+    border-radius: 300px;
+}
+.box{
+    border: dotted 10px brown;
+    outline:solid 10px beige;
+    padding: 10px;
+    outline-offset: 5px;
+    margin: 50px;
+}
+button{
+    color: gold;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: solid 10px;
+    border-color: antiquewhite;
+    border-radius: 10px;
+}
